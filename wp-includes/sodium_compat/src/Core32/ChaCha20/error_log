@@ -1,0 +1,1 @@
+[24-Oct-2021 03:28:15 America/New_York] PHP Fatal error:  Class 'ParagonIE_Sodium_Core32_Util' not found in /home/xplobvna/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10

@@ -1,0 +1,1 @@
+[24-Oct-2021 05:15:18 America/New_York] PHP Fatal error:  Class 'WP_Customize_Setting' not found in /home/xplobvna/public_html/wp-includes/customize/class-wp-customize-filter-setting.php on line 19

@@ -1,0 +1,100 @@
+[03-Mar-2022 18:39:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[03-Mar-2022 18:39:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[03-Mar-2022 18:39:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[03-Mar-2022 18:39:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[03-Mar-2022 18:39:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[04-Mar-2022 08:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[04-Mar-2022 08:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[04-Mar-2022 08:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[04-Mar-2022 08:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[04-Mar-2022 08:10:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[04-Mar-2022 08:10:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[20-Mar-2022 18:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[20-Mar-2022 18:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[20-Mar-2022 18:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[20-Mar-2022 18:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[30-Apr-2023 03:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[30-Apr-2023 03:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/search.php on line 10
+[30-Apr-2023 03:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/archive.php on line 10
+[30-Apr-2023 03:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/xplobvna/public_html/wp-content/themes/revenueplus/footer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/footer.php on line 18
+[30-Apr-2023 03:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/404.php on line 10
+[30-Apr-2023 03:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/archive.php on line 10
+[30-Apr-2023 03:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/index.php on line 1
+[30-Apr-2023 03:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/search.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/search.php on line 10
+[30-Apr-2023 03:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/xplobvna/public_html/wp-content/themes/revenueplus/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/404.php on line 10
+[30-Apr-2023 03:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/xplobvna/public_html/wp-content/themes/revenueplus/footer.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-content/themes/revenueplus/footer.php on line 18

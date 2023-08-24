@@ -1,0 +1,8 @@
+[24-Oct-2021 03:29:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/xplobvna/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-admin/user/menu.php on line 10
+[24-Oct-2021 03:29:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/xplobvna/public_html/wp-admin/user/menu.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/xplobvna/public_html/wp-admin/user/menu.php on line 10
